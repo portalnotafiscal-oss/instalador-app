@@ -1,6 +1,6 @@
 {
-  "name": "NOMEDOAPLICATIVO",
-  "short_name": "NOME_REDUZIDO",
+  "name": "Portal de Nota Fiscal",
+  "short_name": "Portal_NF",
   "description": "Aplicação criada para controle de Santa Ceia e de tarefas da Santa Ceia da CCB PENHA-SP",
   "start_url": "/NomeDoProjetoNoGit/app.html",
   "display": "standalone",
@@ -58,3 +58,4 @@
     }
   ]
 }
+
