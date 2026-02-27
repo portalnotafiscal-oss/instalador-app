@@ -1,7 +1,7 @@
 {
   "name": "Portal de Nota Fiscal",
   "short_name": "Portal_NF",
-  "description": "Aplicação criada para controle de Santa Ceia e de tarefas da Santa Ceia da CCB PENHA-SP",
+  "description": "Portal de Nota Fiscal para controle de emissão e pagamento",
   "start_url": "/NomeDoProjetoNoGit/app.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -58,3 +58,4 @@
     }
   ]
 }
+
