@@ -5,7 +5,7 @@
   "start_url": "/NomeDoProjetoNoGit/app.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4285f4",
+  "theme_color": "#4ed98a",
   "orientation": "portrait-primary",
   "icons": [
     {
@@ -58,4 +58,5 @@
     }
   ]
 }
+
 
